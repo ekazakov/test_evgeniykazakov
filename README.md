@@ -1,0 +1,2 @@
+- `npm start` to run application
+- `npm test` to run tests
